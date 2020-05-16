@@ -1,8 +1,10 @@
 # Quickstart
 
-[dbt installation](https://docs.getdbt.com/docs/dbt-cloud/on-premises/installation/)
-`dbt_propject.yml is configured to work with a local postgres database`
-[postgres installation](https://www.google.com/search?channel=cus2&client=firefox-b-1-d&q=windows+linux+postgres)
+* [dbt installation](https://docs.getdbt.com/docs/dbt-cloud/on-premises/installation/)
+* [postgres/psql installation](https://www.google.com/search?channel=cus2&client=firefox-b-1-d&q=windows+linux+postgres)
+
+`dbt_project.yml` is configured to work with a local postgres database
+
 
 In Terminal:
 ```shell

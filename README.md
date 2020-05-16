@@ -11,7 +11,9 @@ psql -c "CREATE SCHEMA dbt_tutorial.jaffle_shop"
 ```
 
 Create the raw tables and copy data from the .csv files in datasets/
-* `psql -d dbt_tutorial -a -f db_setup/setup.sql`
+```shell
+psql -d dbt_tutorial -a -f db_setup/setup.sql
+```
 
 # DBT
 Try these:
